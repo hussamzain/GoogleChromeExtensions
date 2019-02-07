@@ -101,3 +101,9 @@
 
 -  [OneTab](https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall)
 > Save up to 95% memory and reduce tab clutter.
+
+-  [Password Checkup](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno)
+> Password Checkup helps you resecure accounts that were affected by data breaches.
+
+-  [Mindful Break](https://chrome.google.com/webstore/detail/mindful-break/onjcfgnjjbnflacfbnjaapcbiecckilk)
+> This Chrome extension offers a new mindfulness tip each time it is opened.
