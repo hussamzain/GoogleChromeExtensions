@@ -113,3 +113,6 @@
 
 -  [BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)
 > The BuiltWith Chrome Extension lets you find out what a website is built with by a simple click on the builtwith icon!
+
+-  [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla)
+> Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
