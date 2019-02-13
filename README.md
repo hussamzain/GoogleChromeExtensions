@@ -107,3 +107,6 @@
 
 -  [Mindful Break](https://chrome.google.com/webstore/detail/mindful-break/onjcfgnjjbnflacfbnjaapcbiecckilk)
 > This Chrome extension offers a new mindfulness tip each time it is opened.
+
+-  [AHA Music - Music Identifier](https://chrome.google.com/webstore/detail/aha-music-music-identifie/dpacanjfikmhoddligfbehkpomnbgblf)
+> Music Recognition, Find and Identify any song playing in your browser.
