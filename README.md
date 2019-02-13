@@ -110,3 +110,6 @@
 
 -  [AHA Music - Music Identifier](https://chrome.google.com/webstore/detail/aha-music-music-identifie/dpacanjfikmhoddligfbehkpomnbgblf)
 > Music Recognition, Find and Identify any song playing in your browser.
+
+-  [BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)
+> The BuiltWith Chrome Extension lets you find out what a website is built with by a simple click on the builtwith icon!
