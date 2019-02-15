@@ -116,3 +116,6 @@
 
 -  [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla)
 > Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
+
+-  [Hide Slack Messages](https://chrome.google.com/webstore/detail/hide-slack-messages/mjingehmnkofkklkdlipioiinepjghlo)
+> Hide messages from specific users and bots, make Slack A Happy Place Again!
