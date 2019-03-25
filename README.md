@@ -119,3 +119,6 @@
 
 -  [Hide Slack Messages](https://chrome.google.com/webstore/detail/hide-slack-messages/mjingehmnkofkklkdlipioiinepjghlo)
 > Hide messages from specific users and bots, make Slack A Happy Place Again!
+
+-  [Hide YouTube Comments, Live Chat, & Related](https://chrome.google.com/webstore/detail/hide-youtube-comments-liv/fcchghcgfeadhdmkmpkedplecikkajnp)
+> Hide YouTube comments, live chat, and related videos.
