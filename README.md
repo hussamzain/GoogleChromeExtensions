@@ -161,4 +161,53 @@
   > Hide messages from specific users and bots, make Slack A Happy Place Again!
 
 - [Hide YouTube Comments, Live Chat, & Related](https://chrome.google.com/webstore/detail/hide-youtube-comments-liv/fcchghcgfeadhdmkmpkedplecikkajnp)
+
   > Hide YouTube comments, live chat, and related videos.
+
+- [Audio Downloader Prime](https://chrome.google.com/webstore/detail/flainkeonkoanoijnkojmiiihnfdhipd)
+
+  > Easily download most popular audio formats.
+
+- [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+
+  > Screencast, record screen as video. Screen capture for full page, annotate, blur sensitive info, and share with one-click uploads.
+
+- [Battery Info](https://chrome.google.com/webstore/detail/jchnojkeefjdioodimacimfiefjdbpag)
+
+  > Check easily your laptop battery status.
+
+- [Bitwarden - Free Password Manager](https://chrome.google.com/webstore/detail/nngceckbapebfimnlniiiahkandclblb)
+
+  > A secure and free password manager for all of your devices.
+
+- [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/gbchcmhmhahfdphkhkmpfmihenigjmpp)
+
+  > Access other computers or allow another user to access your computer securely over the Internet.
+
+- [Copy Page URL](https://chrome.google.com/webstore/detail/dobnehimlklapeengfdlhdkpijhjdkag)
+
+  > Copy Page URL from context menu or toolbar.
+
+- [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+
+  > Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.
+
+- [Export links of all extensions](https://chrome.google.com/webstore/detail/cmeckkgeamghjhkepejgjockldoblhcb)
+
+  > Export name and url of all installed extensions in Google Chrome.
+
+- [Eye Dropper](https://chrome.google.com/webstore/detail/hmdcmlfkchdmnmnmheododdhjedfccka)
+
+  > Eye Dropper is open source extension which allows you to pick colors from web pages, color picker and your personal color history.
+
+- [QR Code Reader](https://chrome.google.com/webstore/detail/likadllkkidlligfcdhfnnbkjigdkmci)
+
+  > A chrome extension for reading QR code from webpage.
+
+- [Super Auto Refresh Plus](https://chrome.google.com/webstore/detail/globgafddkdlnalejlkcpaefakkhkdoa)
+
+  > Automatically reload and refresh web pages in simplest way.
+
+- [Suspicious Site Reporter](https://chrome.google.com/webstore/detail/jknemblkbdhdcpllfgbfekkdciegfboi)
+
+  > Extension for reporting suspicious sites to Safe Browsing.
