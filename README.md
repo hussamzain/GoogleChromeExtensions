@@ -211,3 +211,7 @@
 - [Suspicious Site Reporter](https://chrome.google.com/webstore/detail/jknemblkbdhdcpllfgbfekkdciegfboi)
 
   > Extension for reporting suspicious sites to Safe Browsing.
+
+- [One Click Extensions Manager](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem)
+
+  > View, enable, disable, remove your extensions with ease.
