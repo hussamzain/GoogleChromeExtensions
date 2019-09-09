@@ -215,3 +215,7 @@
 - [One Click Extensions Manager](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem)
 
   > View, enable, disable, remove your extensions with ease.
+
+- [Blob Video Downloader](https://chrome.google.com/webstore/detail/blob-video-downloader/knpbbcbpainepebaalgbehcidbkednfb)
+
+  > Blob Video Downloader is a Chrome Extension Made to allow users to download the Blob videos shown in Facebook video comments all.
