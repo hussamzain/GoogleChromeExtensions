@@ -219,3 +219,7 @@
 - [Blob Video Downloader](https://chrome.google.com/webstore/detail/blob-video-downloader/knpbbcbpainepebaalgbehcidbkednfb)
 
   > Blob Video Downloader is a Chrome Extension Made to allow users to download the Blob videos shown in Facebook video comments all.
+
+- [PlaySpeed](https://chrome.google.com/webstore/detail/playspeed/dnfmmnofemiagfcofjfibfpmlnhmkfnm)
+
+  > The PlaySpeed Chrome Plugin gives you control over how fast or slow a video is played on YouTube, from 0.25x to 2x speed play.
