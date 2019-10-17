@@ -223,3 +223,7 @@
 - [PlaySpeed](https://chrome.google.com/webstore/detail/playspeed/dnfmmnofemiagfcofjfibfpmlnhmkfnm)
 
   > The PlaySpeed Chrome Plugin gives you control over how fast or slow a video is played on YouTube, from 0.25x to 2x speed play.
+
+- [The Camelizer](https://chrome.google.com/webstore/detail/the-camelizer/ghnomdcacenbmilgjigehppbamfndblo?hl=en)
+
+  > Our free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy.
