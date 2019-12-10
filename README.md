@@ -227,3 +227,7 @@
 - [The Camelizer](https://chrome.google.com/webstore/detail/the-camelizer/ghnomdcacenbmilgjigehppbamfndblo?hl=en)
 
   > Our free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy.
+
+- [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj)
+
+  > View and edit Microsoft Word, Excel, and PowerPoint files with Google Docs, Sheets, and Slides.
