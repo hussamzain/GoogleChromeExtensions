@@ -235,3 +235,11 @@
 - [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf)
 
   > Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
+
+- [Night Shift](https://chrome.google.com/webstore/detail/night-shift/fpnlpehjhijpamloppfjljenemeokfio)
+
+  > Night Shift automatically shifts the colors of your browser content to warmer end of the color spectrum after dark.
+
+- [Video Speed Controller - With Hotkeys](https://chrome.google.com/webstore/detail/video-speed-controller-wi/lmkmbendeeejlcdaicihgmnobjmodfjj)
+
+  > Change The Speed Of Videos On Any Website Using Hotkeys.
