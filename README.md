@@ -243,3 +243,7 @@
 - [Video Speed Controller - With Hotkeys](https://chrome.google.com/webstore/detail/video-speed-controller-wi/lmkmbendeeejlcdaicihgmnobjmodfjj)
 
   > Change The Speed Of Videos On Any Website Using Hotkeys.
+
+- [Bitly | Unleash the power of the link](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic)
+
+  > Shorten, measure, and optimize your links.
