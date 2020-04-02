@@ -247,3 +247,7 @@
 - [Bitly | Unleash the power of the link](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic)
 
   > Shorten, measure, and optimize your links.
+
+- [Lorem ipsum generator (using keyboard only)](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-usi/ogkidppcbldhebgplkdmepodkbfanndi)
+
+  > Generates lorem ipsum text. Usage: lorem[number of words];.
