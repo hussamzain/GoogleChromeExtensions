@@ -251,3 +251,7 @@
 - [Lorem ipsum generator (using keyboard only)](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-usi/ogkidppcbldhebgplkdmepodkbfanndi)
 
   > Generates lorem ipsum text. Usage: lorem[number of words];.
+
+- [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj)
+
+  > Browse and download images on a web page.
