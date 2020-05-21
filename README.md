@@ -255,3 +255,7 @@
 - [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj)
 
   > Browse and download images on a web page.
+
+- [Personal Blocklist(not by Google)](https://chrome.google.com/webstore/detail/personal-blocklistnot-by/cbbbhelcpfjhdcncigdlkabmjbgokmpg)
+
+  > Block Website from Google search results.
