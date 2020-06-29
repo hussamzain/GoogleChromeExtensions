@@ -259,3 +259,7 @@
 - [Personal Blocklist(not by Google)](https://chrome.google.com/webstore/detail/personal-blocklistnot-by/cbbbhelcpfjhdcncigdlkabmjbgokmpg)
 
   > Block Website from Google search results.
+
+- [Stream Recorder - download HLS as MP4](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
+
+  > The most popular downloader for Http Live Streaming(HLS).
