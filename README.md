@@ -263,3 +263,7 @@
 - [Stream Recorder - download HLS as MP4](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
 
   > The most popular downloader for Http Live Streaming(HLS).
+
+- [Podcastle AI](https://chrome.google.com/webstore/detail/podcastle-ai/icmhhflehepmfekgegofjggdpjkocjid)
+
+  > Podcastle converts text news/articles to a podcast, with very natural human speech using machine learning.
