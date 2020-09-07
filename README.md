@@ -267,3 +267,7 @@
 - [Podcastle AI](https://chrome.google.com/webstore/detail/podcastle-ai/icmhhflehepmfekgegofjggdpjkocjid)
 
   > Podcastle converts text news/articles to a podcast, with very natural human speech using machine learning.
+
+- [Krisp for Chrome](https://chrome.google.com/webstore/detail/krisp-for-chrome/edmmlbmgelmbipapbhcncjblhejknomb)
+
+  > Remove background noise during calls with Krisp for Chrome.
