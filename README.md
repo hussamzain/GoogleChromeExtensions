@@ -271,3 +271,15 @@
 - [Krisp for Chrome](https://chrome.google.com/webstore/detail/krisp-for-chrome/edmmlbmgelmbipapbhcncjblhejknomb)
 
   > Remove background noise during calls with Krisp for Chrome.
+
+- [Relaxing Sounds - Giovesoft](https://chrome.google.com/webstore/detail/relaxing-sounds-giovesoft/gpgbpbpobbgnaognooilkmncoonaedao)
+
+  > Relaxing Sounds by Giovesoft. Listen and relax with the sounds of nature. Ascolta e rilassati con i suoni della natura.
+
+- [Suspicious Site Reporter](https://chrome.google.com/webstore/detail/suspicious-site-reporter/jknemblkbdhdcpllfgbfekkdciegfboi)
+
+  > Extension for reporting suspicious sites to Safe Browsing.
+
+- [Link to Text Fragment](https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
+
+  > Browser extension that allows for linking to arbitrary text on a page.
