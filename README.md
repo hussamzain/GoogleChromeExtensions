@@ -283,3 +283,7 @@
 - [Link to Text Fragment](https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
 
   > Browser extension that allows for linking to arbitrary text on a page.
+
+- [Quran Tab](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
+
+  > Quran Tab is an Islamic new tab page that will keep you inspired by a verse from the Quran every time you open a new tab.
