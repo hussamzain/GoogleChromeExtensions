@@ -287,3 +287,7 @@
 - [Quran Tab](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
 
   > Quran Tab is an Islamic new tab page that will keep you inspired by a verse from the Quran every time you open a new tab.
+
+- [Substital: Add Subtitles to Videos](https://chrome.google.com/webstore/detail/substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg)
+
+  > Substital lets you easily add subtitles to videos online.
