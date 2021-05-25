@@ -291,3 +291,16 @@
 - [Substital: Add Subtitles to Videos](https://chrome.google.com/webstore/detail/substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg)
 
   > Substital lets you easily add subtitles to videos online.
+
+- [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
+
+  > View definitions easily as you browse the web.
+
+- [Loom for Chrome](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb)
+
+  > Video messaging for work.
+
+- [Webtime Tracker](https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk)
+
+  > Discover your browsing habits! Time tracking at its best.
+
