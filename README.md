@@ -128,14 +128,6 @@
 
   > A secure and free password manager for all of your devices.
 
-- [Copy Page URL](https://chrome.google.com/webstore/detail/dobnehimlklapeengfdlhdkpijhjdkag)
-
-  > Copy Page URL from context menu or toolbar.
-
-- [Export links of all extensions](https://chrome.google.com/webstore/detail/cmeckkgeamghjhkepejgjockldoblhcb)
-
-  > Export name and url of all installed extensions in Google Chrome.
-
 - [Eye Dropper](https://chrome.google.com/webstore/detail/hmdcmlfkchdmnmnmheododdhjedfccka)
 
   > Eye Dropper is open source extension which allows you to pick colors from web pages, color picker and your personal color history.
@@ -176,10 +168,6 @@
 
   > The most popular downloader for Http Live Streaming(HLS).
 
-- [Podcastle AI](https://chrome.google.com/webstore/detail/podcastle-ai/icmhhflehepmfekgegofjggdpjkocjid)
-
-  > Podcastle converts text news/articles to a podcast, with very natural human speech using machine learning.
-
 - [Suspicious Site Reporter](https://chrome.google.com/webstore/detail/suspicious-site-reporter/jknemblkbdhdcpllfgbfekkdciegfboi)
 
   > Extension for reporting suspicious sites to Safe Browsing.
@@ -187,10 +175,6 @@
 - [Link to Text Fragment](https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
 
   > Browser extension that allows for linking to arbitrary text on a page.
-
-- [Quran Tab](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-
-  > Quran Tab is an Islamic new tab page that will keep you inspired by a verse from the Quran every time you open a new tab.
 
 - [Substital: Add Subtitles to Videos](https://chrome.google.com/webstore/detail/substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg)
 
