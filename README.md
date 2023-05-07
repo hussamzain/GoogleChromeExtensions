@@ -88,10 +88,6 @@
 
   > The easiest way to identify fonts on web pages.
 
-- [Currently](https://chrome.google.com/webstore/detail/ojhmphdkpgbibohbnpbfiefkgieacjmh)
-
-  > Replace new tab screen with current time and weather.
-
 - [Just Read](https://chrome.google.com/webstore/detail/dgmanlpmmkibanfdgjocnabmcaclkmod)
 
   > A customizable reader extension.
