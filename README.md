@@ -16,10 +16,6 @@
 
   > Enhance your written communication everywhere you type!
 
-- [Honey](https://chrome.google.com/webstore/detail/bmnlcjabgnpnenekpadlanbbkooimhnj)
-
-  > Automatically find and apply coupon codes when you shop online!
-
 - [JavaScript and CSS Code Beautifier](https://chrome.google.com/webstore/detail/iiglodndmmefofehaibmaignglbpdald)
 
   > Beautify CSS, JavaScript and JSON code when you open a .css/.js/.json file.
@@ -48,10 +44,6 @@
 
   > Privacy Badger automatically learns to block invisible trackers.
 
-- [React Developer Tools](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi)
-
-  > Adds React debugging tools to the Chrome Developer Tools.
-
 - [RSS Subscription Extension (by Google)](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
 
   > Adds one-click subscription to your toolbar.
@@ -59,10 +51,6 @@
 - [Screenshot YouTube](https://chrome.google.com/webstore/detail/gjoijpfmdhbjkkgnmahganhoinjjpohk)
 
   > Take a screenshot of any YouTube video with one click.
-
-- [Speedtest by Ookla](https://chrome.google.com/webstore/detail/pgjjikdiikihdfpoppgaidccahalehjh)
-
-  > Take a Speedtest directly from your toolbar to quickly test your internet performance without interruption.
 
 - [Temp Mail - Disposable Temporary Email](https://chrome.google.com/webstore/detail/inojafojbhdpnehkhhfjalgjjobnhomj)
 
@@ -80,10 +68,6 @@
 
   > Finally, an efficient blocker. Easy on CPU and memory.
 
-- [Wappalyzer](https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg)
-
-  > Identify web technologies
-
 - [WhatFont](https://chrome.google.com/webstore/detail/jabopobgcpjmedljpbcaablpmlmfcogm)
 
   > The easiest way to identify fonts on web pages.
@@ -92,14 +76,6 @@
 
   > A customizable reader extension.
 
-- [Momentum](https://chrome.google.com/webstore/detail/laookkfknpbbblfpciffpaejjkokdgca)
-
-  > Replace new tab page with a personal dashboard featuring to-do, weather, and inspiration.
-
-- [Mindful Break](https://chrome.google.com/webstore/detail/mindful-break/onjcfgnjjbnflacfbnjaapcbiecckilk)
-
-  > This Chrome extension offers a new mindfulness tip each time it is opened.
-
 - [AHA Music - Music Identifier](https://chrome.google.com/webstore/detail/aha-music-music-identifie/dpacanjfikmhoddligfbehkpomnbgblf)
 
   > Music Recognition, Find and Identify any song playing in your browser.
@@ -107,10 +83,6 @@
 - [BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)
 
   > The BuiltWith Chrome Extension lets you find out what a website is built with by a simple click on the builtwith icon!
-
-- [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla)
-
-  > Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
 
 - [Hide YouTube Comments, Live Chat, & Related](https://chrome.google.com/webstore/detail/hide-youtube-comments-liv/fcchghcgfeadhdmkmpkedplecikkajnp)
 
@@ -136,10 +108,6 @@
 
   > A chrome extension for reading QR code from webpage.
 
-- [Suspicious Site Reporter](https://chrome.google.com/webstore/detail/jknemblkbdhdcpllfgbfekkdciegfboi)
-
-  > Extension for reporting suspicious sites to Safe Browsing.
-
 - [One Click Extensions Manager](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem)
 
   > View, enable, disable, remove your extensions with ease.
@@ -156,10 +124,6 @@
 
   > Shorten, measure, and optimize your links.
 
-- [Lorem ipsum generator (using keyboard only)](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-usi/ogkidppcbldhebgplkdmepodkbfanndi)
-
-  > Generates lorem ipsum text. Usage: lorem[number of words];.
-
 - [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj)
 
   > Browse and download images on a web page.
@@ -167,18 +131,6 @@
 - [Stream Recorder - download HLS as MP4](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
 
   > The most popular downloader for Http Live Streaming(HLS).
-
-- [Suspicious Site Reporter](https://chrome.google.com/webstore/detail/suspicious-site-reporter/jknemblkbdhdcpllfgbfekkdciegfboi)
-
-  > Extension for reporting suspicious sites to Safe Browsing.
-
-- [Link to Text Fragment](https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
-
-  > Browser extension that allows for linking to arbitrary text on a page.
-
-- [Substital: Add Subtitles to Videos](https://chrome.google.com/webstore/detail/substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg)
-
-  > Substital lets you easily add subtitles to videos online.
 
 - [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
 
