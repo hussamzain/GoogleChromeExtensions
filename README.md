@@ -1,145 +1,117 @@
 # GoogleChromeExtensions
 
-- [Always Clear Downloads 2](https://chrome.google.com/webstore/detail/jcajchndfkmnaefkhoaoiagemplbfffn)
+>[Always Clear Downloads 2](https://chromewebstore.google.com/detail/always-clear-downloads-2/jcajchndfkmnaefkhoaoiagemplbfffn) - *A Google Chrome Extension to always clear the downloads list of all completed downloads.*
 
-  > A Google Chrome Extension to always clear the downloads list of all completed downloads.
+>[Fake Filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - *form filler that fills all inputs on a page with fake/dummy data.*
 
-- [Form Filler](https://chrome.google.com/webstore/detail/bnjjngeaknajbdcgpfkgnonkmififhfo)
+>[Google Translate](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - *View tr1anslations easily as you browse the web. By the Google Translate team.*
 
-  > Fill all inputs in a page with dummy data.
+[Grammarly: Grammar Checker and AI Writing App](https://chromewebstore.google.com/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - *Improve your writing with all-in-one communication assistance—including grammar check, generative AI, and more.*
 
-- [Google Translate](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+>[Just Tweet Button](https://chromewebstore.google.com/detail/just-tweet-button/feikojefkpembojkeegfajbbfecocddd) - *Just tweet browsing site, without any other features.*
 
-  > View translations easily as you browse the web. By the Google Translate team.
+>[Page load time](https://chromewebstore.google.com/detail/page-load-time/fploionmjgeclbkemipmkogoaohcdbig) - *Displays page load time in the toolbar.*
 
-- [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+>[Picture-in-Picture Extension (by Google)](https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Watch video using Picture-in-Picture.*
 
-  > Enhance your written communication everywhere you type!
+>[Privacy Badger](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - *Privacy Badger automatically learns to block invisible trackers.*
 
-- [JavaScript and CSS Code Beautifier](https://chrome.google.com/webstore/detail/iiglodndmmefofehaibmaignglbpdald)
+>[Screenshot YouTube](https://chromewebstore.google.com/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk) - *Take a screenshot of any YouTube video with one click.*
 
-  > Beautify CSS, JavaScript and JSON code when you open a .css/.js/.json file.
+>[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - *Finally, an efficient blocker. Easy on CPU and memory.*
 
-- [JSON Viewer](https://chrome.google.com/webstore/detail/gbmdgpbipfallnflgajpaliibnhdgobh)
+>[WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - *The easiest way to identify fonts on web pages.*
 
-  > The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen.
+[AHA Music - Song Finder for Browser](https://chromewebstore.google.com/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf) - *What is the song? Song identifier tells you!*
 
-- [Just Tweet Button](https://chrome.google.com/webstore/detail/feikojefkpembojkeegfajbbfecocddd)
+>[Bitwarden - Free Password Manager](https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) - *A secure and free password manager for all of your devices.*
 
-  > Just tweet browsing site, without any other features
+[Stream Recorder - download HLS as MP4](https://chromewebstore.google.com/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm) - *The most popular downloader for Http Live Streaming(HLS)*
 
-- [Lorem ipsum generator (using keyboard only)](https://chrome.google.com/webstore/detail/ogkidppcbldhebgplkdmepodkbfanndi)
+>[Asana](https://chromewebstore.google.com/detail/asana/khnpeclbnipcdacdkhejifenadikeghk) - *Quickly add and search tasks in Asana from any web page.*
 
-  > Generates lorem ipsum text. Usage: lorem[number of words];
+>[Asana2Go](https://chromewebstore.google.com/detail/asana2go/meaajmlecpkbjcofehfpjngpnpfpjlkd) - *Copy, export, and print from Asana flexibly*
 
-- [Page load time](https://chrome.google.com/webstore/detail/fploionmjgeclbkemipmkogoaohcdbig)
+[Audio Downloader Prime](https://chromewebstore.google.com/detail/audio-downloader-prime/flainkeonkoanoijnkojmiiihnfdhipd) - *Easily download most popular audio formats.*
 
-  > Displays page load time in the toolbar
+>[Auto HD/4k/8k for YouTube™ - YouTube™ Auto HD](https://chromewebstore.google.com/detail/auto-hd4k8k-for-youtube-y/fjdmkanbdloodhegphphhklnjfngoffa) - *Automatically set your default YouTube™ video quality with this great new Auto HD, supporting high definition resolution HD/4k/8k.*
 
-- [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/hkgfoiooedgoejojocmhlaklaeopbecg)
+>[AutoHideDownloadsBar](https://chromewebstore.google.com/detail/autohidedownloadsbar/gkmndgjgpolmikgnipipfekglbbgjcel) - *This extension hides annoying downloads bar in the bottom of the screen.*
 
-  > Watch video using Picture-in-Picture
+[ChatGPT Writer - Write mail, messages with AI](https://chromewebstore.google.com/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - *Write emails, messages, and more using ChatGPT AI (privacy-frendly). Works on all sites*
 
-- [Privacy Badger](https://chrome.google.com/webstore/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+[ClearURLs](https://chromewebstore.google.com/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) - *Remove tracking elements from URLs.*
 
-  > Privacy Badger automatically learns to block invisible trackers.
+[CrossPilot](https://chromewebstore.google.com/detail/crosspilot/migomhggnppjdijnfkiimcpjgnhmnale) - *Install Opera extensions in Chrome in a sandboxed environment.*
 
-- [RSS Subscription Extension (by Google)](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
+[Cute Save Button](https://chromewebstore.google.com/detail/cute-save-button/foblnmhpgiilabdcbnfgoheplajhompg) - *Little button to save images and webms in one click or with any hotkeys. Praise cute!*
 
-  > Adds one-click subscription to your toolbar.
+[Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - *Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.*
 
-- [Screenshot YouTube](https://chrome.google.com/webstore/detail/gjoijpfmdhbjkkgnmahganhoinjjpohk)
+[Decentraleyes](https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - *Protects you against tracking through "free", centralized, content delivery.*
 
-  > Take a screenshot of any YouTube video with one click.
+[Disable Extensions Temporarily](https://chromewebstore.google.com/detail/disable-extensions-tempor/lcfdefmogcogicollfebhgjiiakbjdje) - *Temporarily disable all your extensions with one click. Click again and you re-enable all your previously disabled extensions.*
 
-- [Temp Mail - Disposable Temporary Email](https://chrome.google.com/webstore/detail/inojafojbhdpnehkhhfjalgjjobnhomj)
+[Engage AI - ChatGPT for LinkedIn™](https://chromewebstore.google.com/detail/engage-ai-chatgpt-for-lin/nelhhkchoapcbpcgpmmiahfkcdhgecaf) - *Use ChatGPT to write insightful LinkedIn ™ comments. Scale your social selling. Save time with AI. Powered by OpenAI ™.*
 
-  > Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.
+[Extension Manager](https://chromewebstore.google.com/detail/extension-manager/efajbgpnlnobnkgdcgcnclngeolnmggp) - *A simple way to manage your browser extensions.*
 
-- [Toby for Chrome](https://chrome.google.com/webstore/detail/hddnkoipeenegfoeaoibdmnaalmgkpip)
+[Fluff Busting Purity](https://chromewebstore.google.com/detail/fluff-busting-purity/nmkinhboiljjkhaknpaeaicmdjhagpep) *Fluff Busting Purity cleans up & customises Facebook, letting you filter out the junk you dont want to see.*
 
-  > Better than bookmarks. Organize your browser tabs and access them quickly anywhere.
+[Grammar Checker & Paraphraser – LanguageTool](https://chromewebstore.google.com/detail/grammar-checker-paraphras/oldceeleldhonbafppcapldpdifcinji) - *Instantly Enhance Your Texts with LanguageTool’s Grammar Checker and Paraphrasing Tool.*
 
-- [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig)
+>[Image Downloader](https://chromewebstore.google.com/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - *Browse and download images on the web.*
 
-  > Download images/videos of user's media-timeline on Twitter.
+[imgur Uploader](https://chromewebstore.google.com/detail/imgur-uploader/lcpkicdemehhmkjolekhlglljnkggfcf) - *Right-click uploading of images and screenshots anonymously or to your imgur account.*
 
-- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+>[Incognito This Tab](https://chromewebstore.google.com/detail/incognito-this-tab/nhockicmnnjibbhgcpphjicilgcfehdi) - *Open current tab in an incognito window.*
 
-  > Finally, an efficient blocker. Easy on CPU and memory.
+>[istanbul namaz vakitleri](https://chromewebstore.google.com/detail/istanbul-namaz-vakitleri/ihinibihfanamnefojdcnmdkjcjhchlk) - *istanbul namaz vakitleri google chrome eklentisi.*
 
-- [WhatFont](https://chrome.google.com/webstore/detail/jabopobgcpjmedljpbcaablpmlmfcogm)
+[Microsoft 365](https://chromewebstore.google.com/detail/microsoft-365/ndjpnladcallmjemlbaebfadecfhkepb) - *View, edit, and create documents in your browser.*
 
-  > The easiest way to identify fonts on web pages.
+[Mouse Tooltip Translator](https://chromewebstore.google.com/detail/mouse-tooltip-translator/hmigninkgibhdckiaphhmbgcghochdjc) - *Mouse Tooltip Translator translate mouseover text using google translate.*
 
-- [Just Read](https://chrome.google.com/webstore/detail/dgmanlpmmkibanfdgjocnabmcaclkmod)
+>[QR Code Reader](https://chromewebstore.google.com/detail/qr-code-reader/likadllkkidlligfcdhfnnbkjigdkmci) - *A chrome extension for reading QR code from webpage.*
 
-  > A customizable reader extension.
+[Save to Google Drive](https://chromewebstore.google.com/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne) - *Save web content or screen capture directly to Google Drive.*
 
-- [AHA Music - Music Identifier](https://chrome.google.com/webstore/detail/aha-music-music-identifie/dpacanjfikmhoddligfbehkpomnbgblf)
+[Shazam: Find song from your browser](https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb) - *Ident search lyrics & more.*
 
-  > Music Recognition, Find and Identify any song playing in your browser.
+>[Steps Recorder by Flonnect Capture](https://chromewebstore.google.com/detail/steps-recorder-by-flonnec/hloeehlfligalbcbajlkjjdfngienilp) - *Capture step-by-step guide and convert it to PDF with steps recorder chrome extension.*
 
-- [BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)
+[SuperCopy, Allow Right Click and Copy](https://chromewebstore.google.com/detail/supercopy-enable-copy/onepmapfbjohnegdmfhndpefjkppbjkm) - *Allow Right Click, Select, Copy and Paste in Every Site. Crack Disable Copy, Enable Copy, Enable Right Click, Enable Select.*
 
-  > The BuiltWith Chrome Extension lets you find out what a website is built with by a simple click on the builtwith icon!
+>[Take Webpage Screenshots Entirely - FireShot](https://chromewebstore.google.com/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - *Take FULL webpage screenshots. Capture, edit and save them to PDF/JPEG/GIF/PNG, upload, print, send to OneNote, clipboard or email.*
 
-- [Hide YouTube Comments, Live Chat, & Related](https://chrome.google.com/webstore/detail/hide-youtube-comments-liv/fcchghcgfeadhdmkmpkedplecikkajnp)
+[The Camelizer](https://chromewebstore.google.com/detail/the-camelizer/ghnomdcacenbmilgjigehppbamfndblo) - *Easily view historical pricing data from camelcamelcamel.com.*
 
-  > Hide YouTube comments, live chat, and related videos.
+>[Theater Mode for YouTube™ (large player view)](https://chromewebstore.google.com/detail/theater-mode-for-youtube/dgognhgbpdoeidccnbfhohblklhbbomh) - *Forces YouTube to open the player in the theater mode (full-width mode) even if you are logged out.*
 
-- [Audio Downloader Prime](https://chrome.google.com/webstore/detail/flainkeonkoanoijnkojmiiihnfdhipd)
+>[Twitter video downloader](https://chromewebstore.google.com/detail/twitter-video-downloader/akmdionenlnfcipmdhbhcnkighafmdha) - *Download twitter videos in best quality with one simple click.*
 
-  > Easily download most popular audio formats.
+[uMatrix](https://chromewebstore.google.com/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) - *Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.*
 
-- [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+>[Unhook - Remove YouTube Recommended Videos](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) - *Hide YouTube related videos, comments, shorts tab, suggestions wall, homepage recommendations, trending, and other distractions.*
 
-  > Screencast, record screen as video. Screen capture for full page, annotate, blur sensitive info, and share with one-click uploads.
+>[Url Shortener](https://chromewebstore.google.com/detail/url-shortener/oodfdmglhbbkkcngodjjagblikmoegpa) - *The best way to create short links using T.LY, JPEG.ly, Bitly, Rebrandly, TinyUrl, and more!*
 
-- [Bitwarden - Free Password Manager](https://chrome.google.com/webstore/detail/nngceckbapebfimnlniiiahkandclblb)
+[Video Downloader for reddit - Redditsave](https://chromewebstore.google.com/detail/video-downloader-for-redd/hhienkkjhkcdeaolmcniloflgpjhdefi) - *A powerful reddit video downloader with sound powered by redditsave.com.*
 
-  > A secure and free password manager for all of your devices.
+[VS Code](https://chromewebstore.google.com/detail/vs-code/kobakmhnkfaghloikphojodjebdelppk) - *Open GitHub and Azure Repos repositories in vscode.dev from the address bar.*
 
-- [Eye Dropper](https://chrome.google.com/webstore/detail/hmdcmlfkchdmnmnmheododdhjedfccka)
+[Yoroi](https://chromewebstore.google.com/detail/yoroi/ffnbelfdoeiohenkjibnmadjiehjhajb) - *A simple, secure and fast Cardano ADA wallet.*
 
-  > Eye Dropper is open source extension which allows you to pick colors from web pages, color picker and your personal color history.
+[YTM+ for YouTube™ Music](https://chromewebstore.google.com/detail/ytm+-for-youtube-music/jcdmcpefbebkldopabclefjaggejocff) - *Upgrade your YouTube Music experience with a mini player, lyrics, notifications, and integrations!*
 
-- [QR Code Reader](https://chrome.google.com/webstore/detail/likadllkkidlligfcdhfnnbkjigdkmci)
+[Toby for Chrome](https://chromewebstore.google.com/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip) - *Better than bookmarks. Organize your browser tabs and access them quickly anywhere.*
 
-  > A chrome extension for reading QR code from webpage.
+[Eye Dropper](https://chromewebstore.google.com/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) - *Eye Dropper is open source extension which allows you to pick colors from web pages, color picker and your personal color history.*
 
-- [One Click Extensions Manager](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem)
+[One Click Extensions Manager](https://chromewebstore.google.com/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem) - *View, enable, disable, remove your extensions with ease.*
 
-  > View, enable, disable, remove your extensions with ease.
+[Webtime Tracker](https://chromewebstore.google.com/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk) - *Discover your browsing habits! Time tracking at its best.*
 
-- [The Camelizer](https://chrome.google.com/webstore/detail/the-camelizer/ghnomdcacenbmilgjigehppbamfndblo?hl=en)
+[Loom – Screen Recorder & Screen Capture](https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb) - *Record your screen and camera with one click. Share that content in an instant with a link.*
 
-  > Our free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy.
-
-- [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf)
-
-  > Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
-
-- [Bitly | Unleash the power of the link](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic)
-
-  > Shorten, measure, and optimize your links.
-
-- [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj)
-
-  > Browse and download images on a web page.
-
-- [Stream Recorder - download HLS as MP4](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
-
-  > The most popular downloader for Http Live Streaming(HLS).
-
-- [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
-
-  > View definitions easily as you browse the web.
-
-- [Loom for Chrome](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb)
-
-  > Video messaging for work.
-
-- [Webtime Tracker](https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk)
-
-  > Discover your browsing habits! Time tracking at its best.
+[Google Dictionary (by Google)](https://chromewebstore.google.com/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) - *View definitions easily as you browse the web.*
