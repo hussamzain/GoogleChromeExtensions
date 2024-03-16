@@ -115,3 +115,5 @@
 [Loom – Screen Recorder & Screen Capture](https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb) - *Record your screen and camera with one click. Share that content in an instant with a link.*
 
 [Google Dictionary (by Google)](https://chromewebstore.google.com/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) - *View definitions easily as you browse the web.*
+
+>[Mute Tab](https://chromewebstore.google.com/detail/mute-tab/blljobffcekcbopmkgfhpcjmbfnelkfg) - *Restores the 'Mute Tab' functionality of versions prior to Chrome 71.*
